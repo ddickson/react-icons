@@ -25,5 +25,3 @@ deploy:
   file_glob: true
   file: "packages/react-icons/react-icons-*.tgz"
   skip_cleanup: true
-  on:
-    tags: true

@@ -230,7 +230,7 @@ module.exports = {
       name: "Maki Icons",
       contents: [
         {
-          files: path.resolve(__dirname, "maki/icons/*.svg"),
+          files: path.resolve(__dirname, "maki/icons/*-15.svg"),
           formatter: name => `Mk${name}`
         }
       ],

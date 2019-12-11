@@ -226,7 +226,7 @@ module.exports = {
       licenseUrl: "https://opensource.org/licenses/MIT"
     },
     {
-      id: "MK",
+      id: "mk",
       name: "Maki Icons",
       contents: [
         {

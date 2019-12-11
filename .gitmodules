@@ -20,5 +20,8 @@
 	path = packages/react-icons/src/icons/ant-design-icons
 	url = https://github.com/ant-design/ant-design-icons.git
 [submodule "maki"]
+	path = maki
+	url = https://github.com/mapbox/maki.git
+[submodule "packages/react-icons/src/icons/maki"]
 	path = packages/react-icons/src/icons/maki
 	url = https://github.com/mapbox/maki.git

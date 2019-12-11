@@ -224,6 +224,19 @@ module.exports = {
       projectUrl: "https://github.com/ant-design/ant-design-icons",
       license: "MIT",
       licenseUrl: "https://opensource.org/licenses/MIT"
+    },
+    {
+      id: "MK",
+      name: "Maki Icons",
+      contents: [
+        {
+          files: path.resolve(__dirname, "maki/icons/*.svg"),
+          formatter: name => `Mk${name}`
+        }
+      ],
+      projectUrl: "https://github.com/mapbox/maki",
+      license: "CC0",
+      licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
     }
   ]
 };
